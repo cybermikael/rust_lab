@@ -1,0 +1,1 @@
+/home/mikael/Hacking/coding/rust_lab/rust_book_ch_2/target/debug/rust_book_ch_2: /home/mikael/Hacking/coding/rust_lab/rust_book_ch_2/src/data_types.rs /home/mikael/Hacking/coding/rust_lab/rust_book_ch_2/src/main.rs /home/mikael/Hacking/coding/rust_lab/rust_book_ch_2/src/variables_mutability.rs
