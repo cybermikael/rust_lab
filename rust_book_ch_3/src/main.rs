@@ -1,7 +1,9 @@
 mod variables_mutability;
 mod data_types;
+mod functions;
 use variables_mutability::var_mut;
 use data_types::dtypes;
+use functions::funk;
 
 
 fn main() {
@@ -10,4 +12,5 @@ fn main() {
     println!("------------------------------------------------------\n");
     var_mut();
     dtypes();
+    funk();
 }

@@ -42,7 +42,7 @@ pub fn dtypes() {
     // Arrays are useful when you want your data allocated on the stack, the same as the other types we have seen so far, rather than the heap (we will discuss the stack and the heap more in Chapter 4) or when you want to ensure that you always have a fixed number of elements.
     let a: [i32; 5] = [1,2,3,4,5];
     let first = a[0];
-    println!("The array: {first}");
+    println!("The array: {first}\n");
 
 
 
