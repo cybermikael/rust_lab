@@ -1,0 +1,1 @@
+/home/mikael/Hacking/coding/rust_lab/rust_book_ch_4/target/debug/rust_book_ch_4: /home/mikael/Hacking/coding/rust_lab/rust_book_ch_4/src/main.rs /home/mikael/Hacking/coding/rust_lab/rust_book_ch_4/src/ownership.rs
